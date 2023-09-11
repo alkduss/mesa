@@ -1,2 +1,4 @@
 #carpeta de modulos
 node_modules/
+#archivo de configuracion Git
+details.txt
